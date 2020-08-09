@@ -1,13 +1,17 @@
-## Welcome to GitHub Pages
+# Introduction
 
-You can use the [editor on GitHub](https://github.com/snh3003/snh3003.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<p>
+I'm a pre-final-year student at SRM University AP, pursuing Computer Science Engineering. I am a part of the Entrepreneurial Innovation Lab - Ennovab which was initiated by the Alumni of Sutardja Center for Entrepreneurship & Technology, University of California Berkeley. <br>
+Additionally, I've served as a Teaching Assistant for the Minerva course and student mentor at Progate: Week of learning at my college.  Also, I’m an integral part of a QS award-winning and victoriously triumphing student-led multidisciplinary research lab, Next Tech Lab.
+</p>
+<p>
+I possess this amazing skill of connecting well with people, clarifying their doubts. I love interacting with individuals of all domains who have the zeal to learn more about technologies and exploring things.<br>
+Proficient in Frontend development, Android development, Java, Python, and C/C++, Leadership, Public Speaking, and coordinating events.
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Skills
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="" height="300px" width="300px">
 ```markdown
 Syntax highlighted code block
 
