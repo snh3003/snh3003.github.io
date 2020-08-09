@@ -9,6 +9,9 @@ I possess this amazing skill of connecting well with people, clarifying their do
 Proficient in Frontend development, Android development, Java, Python, and C/C++, Leadership, Public Speaking, and coordinating events.
 </p>
 
+
+<hr>
+
 <center><h1>Skills</h1></center>
 
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="" height="200px">
@@ -18,16 +21,34 @@ Proficient in Frontend development, Android development, Java, Python, and C/C++
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" alt="" height="200px">
 <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" alt="" height="200px">
 
+<hr>
+
 <center><h1>Projects</h1></center>
 
 ### Covid-Donor
 
 - Developed a Meme Generator App with React JS, Blockchain and Matic Network.
 - A Blockchain-based platform for people to volunteer to donate blood plasma.
-[Click here to see the project](https://rahul7668gupta.github.io/covid-donor/)
+- [Click here to see the project](https://rahul7668gupta.github.io/covid-donor/)
 
 ### Seguro Medico
 
 - A platform that provides immutable medical records and financial assistance facility for patients(crowdfunding).
 - Tech Stack includes React Js, Blockchain and Matic Network.
-[Click here to see the project](https://snh3003.github.io/altf4/)
+- [Click here to see the project](https://snh3003.github.io/altf4/)
+
+### Ethereum Gallico
+
+- This Ethereum, IPFS based platform was developed during the first edition of Hack NITR, an online hackathon conducted by NIT Rourkela.
+- Tech Stack includes HTML, CSS, IPFS, and Wyre.
+- [Click here to see the project](https://snh3003.github.io/HackNITR-Gallico/)
+
+### Ennovab
+
+- This is the official website for the first Entrepreneurial Innovation Lab (Ennovab) of SRM University AP.
+- Rech Stack includes HTML, CSS, and JS.
+- [Click here to see the project](https://ennovab.tech/)
+
+<hr>
+
+
