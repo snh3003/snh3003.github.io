@@ -1,5 +1,9 @@
 # Introduction
-
+<a href="https://www.linkedin.com/in/snh3003/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="" height="50px"></a>
+<a href="https://github.com/snh3003"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="" height="50px"></a>
+<a href="https://www.hackerrank.com/shahsama542"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="" height="50px"></a>
+<a href="https://medium.com/@shahsama542"><img src="https://miro.medium.com/max/390/1*emiGsBgJu2KHWyjluhKXQw.png" alt="" height="50px"></a>
+<a href="https://www.youtube.com/user/kingsnh30"><img src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" alt="" height="50px"></a>
 <p>
 I'm a pre-final-year student at SRM University AP, pursuing Computer Science Engineering. I am a part of the Entrepreneurial Innovation Lab - Ennovab which was initiated by the Alumni of Sutardja Center for Entrepreneurship & Technology, University of California Berkeley. <br>
 Additionally, I've served as a Teaching Assistant for the Minerva course and student mentor at Progate: Week of learning at my college.  Also, I’m an integral part of a QS award-winning and victoriously triumphing student-led multidisciplinary research lab, Next Tech Lab.
@@ -50,5 +54,6 @@ Proficient in Frontend development, Android development, Java, Python, and C/C++
 - [Click here to see the project](https://ennovab.tech/)
 
 <hr>
+
 
 
