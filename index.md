@@ -18,30 +18,16 @@ Proficient in Frontend development, Android development, Java, Python, and C/C++
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" alt="" height="200px">
 <img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" alt="" height="200px">
 
-```markdown
-Syntax highlighted code block
+<center><h1>Projects</h1></center>
 
-# Header 1
-## Header 2
-### Header 3
+### Covid-Donor
 
-- Bulleted
-- List
+- Developed a Meme Generator App with React JS, Blockchain and Matic Network.
+- A Blockchain-based platform for people to volunteer to donate blood plasma.
+[Click here to see the project](https://rahul7668gupta.github.io/covid-donor/)
 
-1. Numbered
-2. List
+### Seguro Medico
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snh3003/snh3003.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- A platform that provides immutable medical records and financial assistance facility for patients(crowdfunding).
+- Tech Stack includes React Js, Blockchain and Matic Network.
+[Click here to see the project](https://snh3003.github.io/altf4/)
