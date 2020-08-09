@@ -11,7 +11,12 @@ Proficient in Frontend development, Android development, Java, Python, and C/C++
 
 # Skills
 
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="" height="300px" width="300px">
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="" height="300px">
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="" height="300px" width="300px">
+<img src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" alt="" height="300px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="" height="300px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" alt="" height="300px">
+
 ```markdown
 Syntax highlighted code block
 
