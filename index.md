@@ -1,4 +1,4 @@
-<center><h1>Introduction</h1>
+<center><h1>⚡Introduction</h1>
 <a href="https://www.linkedin.com/in/snh3003/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="" height="50px"></a>
 <a href="https://github.com/snh3003"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="" height="50px"></a>
 <a href="https://www.hackerrank.com/shahsama542"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="" height="50px"></a>
@@ -17,7 +17,7 @@ Proficient in Frontend development, Android development, Java, Python, and C/C++
 
 <hr>
 
-<center><h1>Skills</h1></center>
+<center><h1>⭐Skills</h1></center>
 
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/02/Ekran-Resmi-2019-11-18-18.08.13.png" alt="" height="200px">
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="" height="200px">
@@ -28,7 +28,7 @@ Proficient in Frontend development, Android development, Java, Python, and C/C++
 
 <hr>
 
-<center><h1>Projects</h1></center>
+<center><h1>💥Projects</h1></center>
 
 ### Covid-Donor
 
