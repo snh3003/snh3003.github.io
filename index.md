@@ -14,7 +14,7 @@ I possess this amazing skill of connecting well with people, clarifying their do
 Proficient in Frontend development, Android development, Java, Python, and C/C++, Leadership, Public Speaking, and coordinating events.
 </p>
 
-<center><button onclick="window.open(google.com)">My Resume</button></center>
+<center><button onclick="location.href='https://snh3003.github.io/covid-tracker/';">My Resume</button></center>
 <hr>
 
 <center><h1>⭐Skills</h1></center>
